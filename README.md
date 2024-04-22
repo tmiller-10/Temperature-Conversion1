@@ -15,6 +15,7 @@ When running the program of this command you will get this result
 
 ```
 🧮 Converting from Celsius to Fahrenheit!
+
  22.0 degrees in Celsius is 71.6 degrees in Fahrenheit
 ```
 
